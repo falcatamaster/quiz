@@ -8,7 +8,7 @@
     const scoreLabel = document.querySelector('#result > p');
 
     const quizSet = shuffle([
-        {q: '世界で一番大きな湖は？', c: ['カスピ海', 'カリブ海', '諏訪湖']},
+        {q: '世界で一番大きな島は？', c: ['グリーンランド', 'シチリア島', '佐渡島']},
         {q: 'What is the thing you like most?', c: ['Me', 'Manchester City', 'Noel Gallagher']},
         {q: 'What is something you hate?', c: ['Manchester United', 'Manchester United', 'Manchester United']},
         {q: 'SpongeBob', c: ['legend', 'tall dark handsome', 'good for the soul']},
